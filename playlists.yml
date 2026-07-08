@@ -11,7 +11,7 @@ playlists:
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all                     
-    trakt_list: https://trakt.tv/users/ruben_vw_/lists/star-wars-canon-timeline?sort=rank,asc
+    trakt_list: https://trakt.tv/users/sonicwarrior/lists/star-wars-canon-timeline?sort=rank,asc
     summary: Timeline of all movies and series that are considered Canon. This includes all Saga Episodes (Ep. I-IX), Series (The Clone Wars, Rebels, Resistance, Disney+ series), Web-Series and shorts (Forces of Destiny, Galaxy of Adventures) and spin-off movies (The Clone Wars, Rogue One, Solo, etc.)
   Star Trek Canon Timeline:
     url_poster: https://imgur.com/JQM208r
@@ -56,13 +56,13 @@ playlists:
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
-    trakt_list: https://trakt.tv/users/goldveia/lists/harry-potter?sort=rank,asc  
+    trakt_list: https://trakt.tv/users/patty_attack/lists/harry-potter-universe-chronological-order?sort=rank,asc  
   Lord of the Rings Movies Chronological Order:
     url_poster: https://imgur.com/kBTAKrD
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
-    trakt_list: https://trakt.tv/users/spite84/lists/lord-of-the-rings?sort=rank,asc
+    trakt_list: https://trakt.tv/users/patty_attack/lists/the-lord-of-the-rings-chronological-order?sort=rank,asc
   Jurassic Park Movies Chronological Order:
     url_poster: https://imgur.com/OGGfRwb
     sync_to_users: all
