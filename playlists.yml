@@ -50,7 +50,7 @@ playlists:
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
-    trakt_list: https://www.imdb.com/list/ls069086212
+    imdb_list: https://www.imdb.com/list/ls069086212
   Harry Potter Movies Chronological Order:
     url_poster: https://imgur.com/U9hMb2s
     sync_to_users: all
