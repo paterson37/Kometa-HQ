@@ -75,8 +75,13 @@ playlists:
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/gapunk78/lists/hunger-games?sort=rank,asc
-  The Walking Dead (Timeline Order):
+  The Walking Dead Chronological Order:
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/davidisrad/lists/the-walking-dead-universe?sort=rank,asc
+  Breaking Bad Chronological Order:
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
+    trakt_list: https://trakt.tv/users/vargajoe/lists/breaking-bad-chronology?sort=rank,asc
