@@ -56,7 +56,7 @@ playlists:
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
-    trakt_list: https://trakt.tv/users/patty_attack/lists/harry-potter-universe-chronological-order?sort=rank,asc  
+    imdb_list: https://www.imdb.com/list/ls081385506/  
   Lord of the Rings Movies Chronological Order:
     url_poster: https://imgur.com/kBTAKrD
     sync_to_users: all
