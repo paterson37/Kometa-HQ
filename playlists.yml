@@ -97,3 +97,24 @@ playlists:
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/vargajoe/lists/breaking-bad-chronology?sort=rank,asc
     summary: Watch the Breaking Bad Universe in chronological story order, following the events of Better Call Saul, Breaking Bad and El Camino.
+  Dragon Ball Z Chronological Order:
+    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Dragon%20Ball%20Z%20Chronological%20Order%20Playlist.png?raw=true
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
+    mdblist_list: https://mdblist.com/lists/k0meta/external/46559
+    summary: Dragon Ball follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.
+  Pokemon Chronological Order:
+    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Pokemon%20Chronological%20Order%20Playlist.png?raw=true
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
+    mdblist_list: https://mdblist.com/lists/k0meta/external/46555
+    summary: Ash Ketchum, his yellow pet Pikachu, and his human friends explore a world of powerful creatures. Ten-year-old Ash aspires to be the greatest Pokémon (pocket monster) trainer in the world. To do this, he enlists the help of many friends, and his own Pokémon, Pikachu.
+  DC Animated Universe Chronological Order:
+    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/DCAU%20Chronological%20Order%20Playlist.png?raw=true
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
+    imdb_list: https://www.imdb.com/list/ls566357882/
+    summary: : The DC Animated Universe (DCAU) is a shared universe consisting primarily of superhero-based animated television series, produced by Warner Bros. Animation and based on characters that appear in American comic books published by DC Comics. The first TV series set in the DCAU was Batman: The Animated Series, which premiered in 1992; the last TV series was Justice League Unlimited, which ended its run in 2006.
