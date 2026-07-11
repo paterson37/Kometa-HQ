@@ -33,7 +33,7 @@ playlists:
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/tomfin46/lists/star-wars-the-clone-wars-chronological-episode-order
-    summary: Experience Star Wars: The Clone Wars in the official chronological episode order, following the timeline of the Clone Wars as intended by Lucasfilm.
+    summary: Experience Star Wars The Clone Wars in the official chronological episode order, following the timeline of the Clone Wars as intended by Lucasfilm.
   X-Men Movies Chronological Order:
     url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/XMen%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
