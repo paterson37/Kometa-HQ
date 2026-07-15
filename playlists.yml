@@ -12,14 +12,14 @@ playlists:
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all                     
     trakt_list: https://trakt.tv/users/sonicwarrior/lists/star-wars-canon-timeline?sort=rank,asc
-    summary: Experience every Marvel Cinematic Universe movie and series in chronological story order, from the earliest events in the MCU timeline through the Multiverse Saga.
+    summary: Follow the complete Star Wars canon in chronological timeline order, including films, live-action series, animated series, shorts and specials.
   Star Trek Canon Timeline:
     url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Star%20Trek%20Canon%20Timeline%20Playlist.png?raw=true
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all
     trakt_list: https://trakt.tv/users/username57/lists/star-trek-prime-canon-timeline?sort=rank,asc
-    summary: Follow the complete Star Wars canon in chronological timeline order, including films, live-action series, animated series, shorts and specials.
+    summary: Experience the complete Star Trek canon in chronological story order, from humanity's first warp flight through every film, live-action series, animated series, short and major event across the Prime Timeline.
   ArrowVerse Chronological Order:
     url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Arrowverse%20Chronological%20Playlist.png?raw=true
     sync_mode: sync
