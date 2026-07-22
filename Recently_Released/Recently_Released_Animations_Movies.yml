@@ -12,4 +12,4 @@ collections:
     visible_home: true
     visible_shared: true
     sort_title: "!0_Recently Released In Animations - Movies"
-    file_poster: /config/assets/Recently_Released.jpg
+    file_poster: /config/plexmetamanager/assets/Recently_Released.jpg
