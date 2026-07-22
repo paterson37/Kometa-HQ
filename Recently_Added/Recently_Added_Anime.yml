@@ -11,4 +11,4 @@ collections:
     visible_home: true
     visible_shared: true
     sort_title: "!0_Recently Added In Anime"
-    file_poster: /config/plexmetamanager/assets/Recently_Added.jpg
+    file_poster: /config/assets/Recently_Added.jpg
