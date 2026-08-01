@@ -1,118 +1,118 @@
 playlists:
   Marvel Cinematic Universe:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Marvel%20Cinematic%20Universe%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Marvel%20Cinematic%20Universe%20Playlist.png?raw=true
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all
     trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
     summary: Experience every Marvel Cinematic Universe movie and series in chronological story order, from the earliest events in the MCU timeline through the Multiverse Saga.
   Star Wars Canon Timeline:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Star%20Wars%20Canon%20Timeline%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Star%20Wars%20Canon%20Timeline%20Playlist.png?raw=true
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all                     
     trakt_list: https://trakt.tv/users/sonicwarrior/lists/star-wars-canon-timeline?sort=rank,asc
     summary: Follow the complete Star Wars canon in chronological timeline order, including films, live-action series, animated series, shorts and specials.
   Star Trek Canon Timeline:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Star%20Trek%20Canon%20Timeline%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Star%20Trek%20Canon%20Timeline%20Playlist.png?raw=true
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all
     trakt_list: https://trakt.tv/users/username57/lists/star-trek-prime-canon-timeline?sort=rank,asc
     summary: Experience the complete Star Trek canon in chronological story order, from humanity's first warp flight through every film, live-action series, animated series, short and major event across the Prime Timeline.
   ArrowVerse Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Arrowverse%20Chronological%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Arrowverse%20Chronological%20Playlist.png?raw=true
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all                     
     trakt_list: https://trakt.tv/users/donxy/lists/arrowverse?sort=rank,asc
     summary: Watch the complete Arrowverse in chronological order, including every crossover and episode from Arrow, The Flash, Supergirl, Legends of Tomorrow, Batwoman, Black Lightning and more.
   Star Wars Clone Wars Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Star%20Wars%20The%20Clone%20Wars%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Star%20Wars%20The%20Clone%20Wars%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/tomfin46/lists/star-wars-the-clone-wars-chronological-episode-order
     summary: Experience Star Wars The Clone Wars in the official chronological episode order, following the timeline of the Clone Wars as intended by Lucasfilm.
   X-Men Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/XMen%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/XMen%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/donxy/lists/x-men-universe?sort=rank,asc
     summary: Follow the X-Men universe in chronological story order, including the original films, Wolverine stories, Deadpool adventures and the prequel timeline.
   James Bond Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/James%20Bond%20Movies%20Chronological%20Order.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/James%20Bond%20Movies%20Chronological%20Order.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/any/lists/james-bond?sort=rank,asc
     summary: Enjoy every official James Bond adventure in chronological release order, following the legendary 007 from Dr. No through No Time to Die.
   Fast And Furious Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Fast%20And%20Furious%20Chronological%20Order.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Fast%20And%20Furious%20Chronological%20Order.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     imdb_list: https://www.imdb.com/list/ls069086212
     summary: Follow Dominic Toretto and his family in chronological story order across the complete Fast & Furious saga, including all feature films.
   Harry Potter Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Harry%20Potter%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Harry%20Potter%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     imdb_list: https://www.imdb.com/list/ls081385506
     summary: Journey through the Wizarding World in chronological story order, beginning with the Fantastic Beasts films and continuing through the Harry Potter saga.
   Lord of the Rings Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Lord%20Of%20The%20Rings%20Chronological%20Order.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Lord%20Of%20The%20Rings%20Chronological%20Order.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/patty_attack/lists/the-lord-of-the-rings-chronological-order?sort=rank,asc
     summary: Experience Middle-earth in chronological story order, beginning with The Hobbit trilogy and continuing through The Lord of the Rings.
   Jurassic Park Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Jurassic%20Park%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Jurassic%20Park%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/iamgabriel/lists/jurassic?sort=rank,asc
     summary: Relive the Jurassic saga in chronological story order, from the original Jurassic Park through the Jurassic World era.
   The Hunger Games Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/The%20Hunger%20Games%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/The%20Hunger%20Games%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/gapunk78/lists/hunger-games?sort=rank,asc
     summary: Follow the complete Hunger Games story in chronological order, beginning with The Ballad of Songbirds & Snakes and continuing through Katniss Everdeen's rebellion.
   The Walking Dead Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/The%20Walking%20Dead%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/The%20Walking%20Dead%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/davidisrad/lists/the-walking-dead-universe?sort=rank,asc
     summary: Experience the complete Walking Dead Universe in chronological story order, including every television series, spin-off and special.
   Breaking Bad Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Breaking%20Bad%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Breaking%20Bad%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/vargajoe/lists/breaking-bad-chronology?sort=rank,asc
     summary: Watch the Breaking Bad Universe in chronological story order, following the events of Better Call Saul, Breaking Bad and El Camino.
   Dragon Ball Z Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Dragon%20Ball%20Z%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Dragon%20Ball%20Z%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     mdblist_list: https://mdblist.com/lists/k0meta/external/46559
     summary: Dragon Ball follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.
   Pokemon Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Pokemon%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Pokemon%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     mdblist_list: https://mdblist.com/lists/k0meta/external/46555
     summary: Ash Ketchum, his yellow pet Pikachu, and his human friends explore a world of powerful creatures. Ten-year-old Ash aspires to be the greatest Pokémon (pocket monster) trainer in the world. To do this, he enlists the help of many friends, and his own Pokémon, Pikachu.
   DC Animated Universe Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/DCAU%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/DCAU%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
@@ -120,126 +120,126 @@ playlists:
     summary: The DC Animated Universe (DCAU) is a shared universe consisting primarily of superhero-based animated television series, produced by Warner Bros. Animation and based on characters that appear in American comic books published by DC Comics. The first TV series set in the DCAU was Batman The Animated Series, which premiered in 1992. The last TV series was Justice League Unlimited, which ended its run in 2006.
   playlists:
   Marvel Cinematic Universe:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Marvel%20Cinematic%20Universe%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Marvel%20Cinematic%20Universe%20Playlist.png?raw=true
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all
     trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
     summary: Experience every Marvel Cinematic Universe movie and series in chronological story order, from the earliest events in the MCU timeline through the Multiverse Saga.
   Star Wars Canon Timeline:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Star%20Wars%20Canon%20Timeline%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Star%20Wars%20Canon%20Timeline%20Playlist.png?raw=true
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all                     
     trakt_list: https://trakt.tv/users/sonicwarrior/lists/star-wars-canon-timeline?sort=rank,asc
     summary: Follow the complete Star Wars canon in chronological timeline order, including films, live-action series, animated series, shorts and specials.
   Star Trek Canon Timeline:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Star%20Trek%20Canon%20Timeline%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Star%20Trek%20Canon%20Timeline%20Playlist.png?raw=true
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all
     trakt_list: https://trakt.tv/users/username57/lists/star-trek-prime-canon-timeline?sort=rank,asc
     summary: Experience the complete Star Trek canon in chronological story order, from humanity's first warp flight through every film, live-action series, animated series, short and major event across the Prime Timeline.
   ArrowVerse Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Arrowverse%20Chronological%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Arrowverse%20Chronological%20Playlist.png?raw=true
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     sync_to_users: all                     
     trakt_list: https://trakt.tv/users/donxy/lists/arrowverse?sort=rank,asc
     summary: Watch the complete Arrowverse in chronological order, including every crossover and episode from Arrow, The Flash, Supergirl, Legends of Tomorrow, Batwoman, Black Lightning and more.
   Star Wars Clone Wars Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Star%20Wars%20The%20Clone%20Wars%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Star%20Wars%20The%20Clone%20Wars%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/tomfin46/lists/star-wars-the-clone-wars-chronological-episode-order
     summary: Experience Star Wars The Clone Wars in the official chronological episode order, following the timeline of the Clone Wars as intended by Lucasfilm.
   X-Men Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/XMen%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/XMen%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/donxy/lists/x-men-universe?sort=rank,asc
     summary: Follow the X-Men universe in chronological story order, including the original films, Wolverine stories, Deadpool adventures and the prequel timeline.
   James Bond Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/James%20Bond%20Movies%20Chronological%20Order.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/James%20Bond%20Movies%20Chronological%20Order.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/any/lists/james-bond?sort=rank,asc
     summary: Enjoy every official James Bond adventure in chronological release order, following the legendary 007 from Dr. No through No Time to Die.
   Fast And Furious Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Fast%20And%20Furious%20Chronological%20Order.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Fast%20And%20Furious%20Chronological%20Order.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     imdb_list: https://www.imdb.com/list/ls069086212
     summary: Follow Dominic Toretto and his family in chronological story order across the complete Fast & Furious saga, including all feature films.
   Harry Potter Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Harry%20Potter%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Harry%20Potter%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     imdb_list: https://www.imdb.com/list/ls081385506
     summary: Journey through the Wizarding World in chronological story order, beginning with the Fantastic Beasts films and continuing through the Harry Potter saga.
   Lord of the Rings Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Lord%20Of%20The%20Rings%20Chronological%20Order.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Lord%20Of%20The%20Rings%20Chronological%20Order.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/patty_attack/lists/the-lord-of-the-rings-chronological-order?sort=rank,asc
     summary: Experience Middle-earth in chronological story order, beginning with The Hobbit trilogy and continuing through The Lord of the Rings.
   Jurassic Park Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Jurassic%20Park%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Jurassic%20Park%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/iamgabriel/lists/jurassic?sort=rank,asc
     summary: Relive the Jurassic saga in chronological story order, from the original Jurassic Park through the Jurassic World era.
   The Hunger Games Movies Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/The%20Hunger%20Games%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/The%20Hunger%20Games%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/gapunk78/lists/hunger-games?sort=rank,asc
     summary: Follow the complete Hunger Games story in chronological order, beginning with The Ballad of Songbirds & Snakes and continuing through Katniss Everdeen's rebellion.
   The Walking Dead Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/The%20Walking%20Dead%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/The%20Walking%20Dead%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/davidisrad/lists/the-walking-dead-universe?sort=rank,asc
     summary: Experience the complete Walking Dead Universe in chronological story order, including every television series, spin-off and special.
   Breaking Bad Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Breaking%20Bad%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Breaking%20Bad%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     trakt_list: https://trakt.tv/users/vargajoe/lists/breaking-bad-chronology?sort=rank,asc
     summary: Watch the Breaking Bad Universe in chronological story order, following the events of Better Call Saul, Breaking Bad and El Camino.
   Dragon Ball Z Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Dragon%20Ball%20Z%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Dragon%20Ball%20Z%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     mdblist_list: https://mdblist.com/lists/k0meta/external/46559
     summary: Dragon Ball follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.
   Pokemon Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/Pokemon%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/Pokemon%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     mdblist_list: https://mdblist.com/lists/k0meta/external/46555
     summary: Ash Ketchum, his yellow pet Pikachu, and his human friends explore a world of powerful creatures. Ten-year-old Ash aspires to be the greatest Pokémon (pocket monster) trainer in the world. To do this, he enlists the help of many friends, and his own Pokémon, Pikachu.
   DC Animated Universe Chronological Order:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/DCAU%20Chronological%20Order%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/DCAU%20Chronological%20Order%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     imdb_list: https://www.imdb.com/list/ls566357882/
     summary: The DC Animated Universe (DCAU) is a shared universe consisting primarily of superhero-based animated television series, produced by Warner Bros. Animation and based on characters that appear in American comic books published by DC Comics. The first TV series set in the DCAU was Batman The Animated Series, which premiered in 1992. The last TV series was Justice League Unlimited, which ended its run in 2006.
   True Crime Documentaries:
-    url_poster: https://github.com/paterson37/Kometa/blob/main/Posters/True%20Crime%20Documentaries%20Playlist.png?raw=true
+    url_poster: https://github.com/paterson37/KometaHQ/blob/main/Posters/True%20Crime%20Documentaries%20Playlist.png?raw=true
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, Series
