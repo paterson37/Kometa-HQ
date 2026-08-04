@@ -118,10 +118,3 @@ playlists:
     libraries: Movies, Series, Anime, Anime - Movies, Animations - Movies, Animations - TV Shows
     imdb_list: https://www.imdb.com/list/ls566357882/
     summary: The DC Animated Universe (DCAU) is a shared universe consisting primarily of superhero-based animated television series, produced by Warner Bros. Animation and based on characters that appear in American comic books published by DC Comics. The first TV series set in the DCAU was Batman The Animated Series, which premiered in 1992. The last TV series was Justice League Unlimited, which ended its run in 2006.
-  True Crime Documentaries:
-    url_poster: https://github.com/paterson37/Kometa-HQ/blob/main/Posters/True%20Crime%20Documentaries%20Playlist.png?raw=true
-    sync_to_users: all
-    sync_mode: sync
-    libraries: Movies, Series
-    trakt_list: https://app.trakt.tv/users/lish408/lists/true-crime-documentary-series-film?sort_by=percentage&sort_how=desc
-    summary: Explore the best true crime documentaries and docuseries, featuring serial killers, unsolved mysteries, frauds, cults, and real-life investigations. Regularly updated with acclaimed and trending releases.  
