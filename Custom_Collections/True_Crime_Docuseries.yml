@@ -7,5 +7,4 @@ collections:
     sync_mode: sync
     summary: "A collection of True Crime Documentaries"
     url_poster: https://raw.githubusercontent.com/paterson37/Kometa-HQ/main/Posters/True%20Crime%20Docuseries.png
-    cache_builders: 0
     collection_order: custom
