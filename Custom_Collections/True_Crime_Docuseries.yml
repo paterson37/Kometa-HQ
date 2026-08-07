@@ -2,7 +2,6 @@ collections:
   True Crime Docuseries:
     mdblist_list: 
       url: https://mdblist.com/lists/paterson37/true-crime-docuseries
-      sort_by: tmdbpopular.desc
     sort_title: "!00_True Crime Docuseries"
     sync_mode: sync
     summary: "A collection of True Crime Documentaries"
