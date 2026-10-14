@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Kometa-Team/Kometa/nightly/json-schema/config-schema.json
+
+collections:
+  Hallmark Christmas Movies In Movies:
+    mdblist_list:
+      url: https://mdblist.com/lists/coltonc18/hallmark-christmas
+    collection_order: release
+    sync_mode: sync
+    sort_title: "!00_Hallmark Christmas Movies In Movies"
+    summary: "A collection of Hallmark Christmas Movies"
+    schedule: range(11/01-01/31)
+    visible_home: range(12/01-12/31)
+    visible_shared: range(12/01-12/31)
+    visible_library: range(12/01-12/31)
+    delete_not_scheduled: true
+    file_poster: /config/plexmetamanager/assets/Hallmark_Christmas_Movies.jpg
