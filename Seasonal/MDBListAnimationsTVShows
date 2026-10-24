@@ -1,0 +1,12 @@
+collections:
+      Trakt List to MDBList Halloween:
+        build_collection: false
+        trakt_list:
+          - https://trakt.tv/users/candroid/lists/halloween-tv
+          - https://trakt.tv/users/bunsduo/lists/halloween-tv
+          - https://trakt.tv/users/toasterfaerie/lists/halloween
+          - https://trakt.tv/users/ashleyangel/lists/halloween-episodes
+          - https://trakt.tv/users/jim222001/lists/the-best-movies-and-shows-for-halloween
+          - https://trakt.tv/users/blakemp/lists/halloween
+          - https://trakt.tv/users/abbelea/lists/tv-movies-this-is-halloween-halloween-halloween
+        sync_to_mdb_list: Halloween Episodes In Animations - TV Shows
