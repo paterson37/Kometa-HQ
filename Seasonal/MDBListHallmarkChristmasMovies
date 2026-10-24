@@ -1,0 +1,6 @@
+collections:
+      Trakt List to MDBList Hallmark Movies Christmas:
+        build_collection: false
+        trakt_list:
+          - https://trakt.tv/users/ad76/lists/hallmark-christmas
+        sync_to_mdb_list: My Hallmark Christmas Movies
