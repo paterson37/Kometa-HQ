@@ -1,6 +1,11 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/Kometa-Team/Kometa/nightly/json-schema/config-schema.json
 
 collections:
+  Trakt List to MDBList:
+    build_collection: false
+    trakt_list:
+      - https://trakt.tv/users/ad76/lists/hallmark-christmas
+    sync_to_mdb_list: My Hallmark Christmas Movies
   Hallmark Christmas Movies In Movies:
     mdblist_list:
       url: https://mdblist.com/lists/coltonc18/hallmark-christmas
