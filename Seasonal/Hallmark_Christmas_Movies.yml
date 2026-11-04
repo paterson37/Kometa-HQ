@@ -13,4 +13,4 @@ collections:
     visible_shared: range(12/01-01/05)
     visible_library: range(12/01-01/05)
     delete_not_scheduled: true
-    file_poster: /config/plexmetamanager/assets/Hallmark_Christmas_Movies.jpg
+    url_poster: https://github.com/paterson37/Kometa-HQ/blob/main/Posters/Hallmark%20Christmas%20Movies.jpg?raw=true
