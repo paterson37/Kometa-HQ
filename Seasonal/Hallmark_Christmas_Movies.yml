@@ -8,9 +8,9 @@ collections:
     sync_mode: sync
     sort_title: "!00_Hallmark Christmas Movies In Movies"
     summary: "A collection of Hallmark Christmas Movies"
-    schedule: range(11/01-01/31)
-    visible_home: range(12/01-12/31)
-    visible_shared: range(12/01-12/31)
-    visible_library: range(12/01-12/31)
+    schedule: range(11/28-01/31)
+    visible_home: range(12/01-01/05)
+    visible_shared: range(12/01-01/05)
+    visible_library: range(12/01-01/05)
     delete_not_scheduled: true
     file_poster: /config/plexmetamanager/assets/Hallmark_Christmas_Movies.jpg
