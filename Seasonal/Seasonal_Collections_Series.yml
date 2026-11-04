@@ -24,7 +24,6 @@ collections:
   Thanksgiving Episodes In Series:
     trakt_list:
       - https://trakt.tv/users/toasterfaerie/lists/thanksgiving
-      - https://trakt.tv/users/rjay2690/lists/thanksgiving-episodes
       - https://trakt.tv/users/andrewbloom/lists/thanksgiving-movies-and-episodes-we-like
     builder_level: episode
     sort_title: "!00_Thanksgiving Episodes In Series"
