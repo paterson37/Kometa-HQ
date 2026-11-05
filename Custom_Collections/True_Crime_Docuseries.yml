@@ -2,7 +2,7 @@ collections:
   True Crime Docuseries:
     mdblist_list: 
       url: https://mdblist.com/lists/paterson37/true-crime-docuseries
-    sort_title: "!00_True Crime Docuseries"
+    sort_title: "!020_!Chart Collection"
     sync_mode: sync
     summary: "A collection of True Crime Documentaries"
     url_poster: https://raw.githubusercontent.com/paterson37/Kometa-HQ/main/Posters/True%20Crime%20Docuseries.png
