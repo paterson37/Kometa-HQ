@@ -6,7 +6,7 @@ collections:
       - https://trakt.tv/users/ad76/lists/hallmark-christmas
     collection_order: release
     sync_mode: sync
-    sort_title: "!00_Hallmark Christmas Movies In Movies"
+    sort_title: "!0_Recently Released In Movies Z"
     summary: "A collection of Hallmark Christmas Movies"
     schedule: range(11/28-01/31)
     visible_home: range(12/01-01/05)
